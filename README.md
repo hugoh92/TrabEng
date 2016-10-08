@@ -1,2 +1,0 @@
-# sotrabalho
-Trabalho de SO
